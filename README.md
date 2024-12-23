@@ -1,1 +1,1 @@
-https://table-generator-3y95.vercel.app/
+https://weather-app-one-gold-85.vercel.app/
